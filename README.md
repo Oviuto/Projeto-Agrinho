@@ -43,21 +43,8 @@ O conteúdo textual, imagens e contexto foram **pesquisados e adaptados pelo est
 ---
 ## 🎯 Objetivo
 
-Demonstrar o equilíbrio entre **produção agrícola e preservação ambiental** no cultivo do café no Paraná, promovendo conhecimento sobre sustentabilidade e história local.
-
----
-
-## 🌎 Tema do Agrinho
-
-> "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente"
-
----
-
-## 🚀 Como executar
-
-1. Baixe ou clone o repositório  
-2. Abra o arquivo `index.html` no navegador  
-3. Navegue pelas seções com scroll contínuo  
+Demonstrar o equilíbrio entre **produção agrícola e preservação ambiental do café no Paraná**, promovendo conhecimento sobre sustentabilidade e história local.
+ 
 
 ---
 
