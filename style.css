@@ -1,0 +1,74 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo do site */
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+/* Cada seção ocupa a tela inteira */
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 20px;
+}
+
+/* Caixa de conteúdo */
+.conteudo {
+    background: rgba(134, 112, 112, 0.65);
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 800px;
+}
+
+/* Títulos */
+h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+/* Imagens de fundo por seção */
+.inicio {
+    background-image: url("https://curtamais.com.br/goiania/wp-content/uploads/sites/2/2024/07/CAFE-GETTY-IMAGESSITE.jpg");
+}
+
+.historia {
+    background-image: url("https://hubdocafe.cooxupe.com.br/wp-content/uploads/2023/08/cafeicultura-scaled.jpg");
+}
+
+.producao {
+    background-image: url("https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?w=1600");
+}
+
+.sustentabilidade {
+    background-image: url("https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1600");
+}
+
+/* Rodapé */
+footer {
+    background: #54b32f;
+    text-align: center;
+    padding: 30px;
+    font-size: 1.1rem;
+}
